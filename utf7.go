@@ -40,8 +40,8 @@ import (
 	"unicode/utf16"
 	"unicode/utf8"
 
-	"golang.org/x/text/encoding"
-	"golang.org/x/text/transform"
+	"github.com/aerofs/utf7/encoding"
+	"github.com/aerofs/utf7/transform"
 )
 
 const (
